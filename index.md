@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+### APLIKASI TOKO GRATIS
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/programtoko-aplikasitoko-gratis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![program toko ,aplikasi toko gratis download](https://1.bp.blogspot.com/-2oC4VHemzDg/XpAlzZKntXI/AAAAAAAAJYM/nFd_HlEkGAEh3luUwMih_x0rn72QEWa-gCLcBGAsYHQ/s1600/aplikasi%2Btoko%2Bgratis.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+forkvbravoindolang
 
-### Markdown
+Dokumentasi penggunaan dan installasi : [https://www.hockeycomputindo.com/2020/04/program-toko-gratis-free-download-full.html](https://www.hockeycomputindo.com/2020/04/program-toko-gratis-free-download-full.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ini adalah aplikasi toko gratis untuk digunakan dalam menunjang kebutuhan usaha mu, dilengkapi dengan barcode system dan full touchscreen dalam penggunaan nya.
 
-```markdown
-Syntax highlighted code block
+Fitur master based : 
+- user : untuk memasukan user dengan hak akses
+- Categories : untuk memasukan kategori produk
+- Produk : untuk memasukan produk jual plus gambar foto produk dan barcode kode
+- Kategori pajak
+- Pajak PPn
+- Stok harian untuk melakukan in out stok
 
-# Header 1
-## Header 2
-### Header 3
+Fitur Transaksi :
+- Transaksi penjualan point of sale dengan touchscreen dan support dengan barcode system
+- Edit penjualan : untuk melakukan edit transaksi penjualan
+- Close cash : fitur tutup kasir dilengkapi dengan laporan harian penjualan kasir
 
-- Bulleted
-- List
+Fitur Laporan : Laporan detail lengkap bisa cek pada menu laporan.
 
-1. Numbered
-2. List
+Konfigurasi : Untuk melakukan konfigurasi integrasi dengan hardware kasir seperti penggunaan printer kasir dan pengaturan lain nya
 
-**Bold** and _Italic_ and `Code` text
+Printer : Fitur screen printer setiap all transaksi akan disimpan pada screen printer ini.
 
-[Link](url) and ![Image](src)
-```
+Keluar : Fitur log off aplikasi toko
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Dukungan dengan paket mesin kasir lengkap tersedia untuk menunjang kebutuhan usaha mu , free installasi dan setting plus aplikasi toko software toko lebih lengkap dalam point of sale package set mu.
 
-### Jekyll Themes
+Dokumentasi penggunaan dan installasi : [https://www.hockeycomputindo.com/2020/04/program-toko-gratis-free-download-full.html](https://www.hockeycomputindo.com/2020/04/program-toko-gratis-free-download-full.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/programtoko-aplikasitoko-gratis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+https://mesinkasir.github.io - https://mesinkasir.web.app
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
