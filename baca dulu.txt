@@ -1,0 +1,72 @@
+program toko gratis persembahan by
+https://mesinkasironline.web.app
+https://mesinkasir.github.io
+
+Pastikan pc anda sudah terinstall aplikasi software JAVA
+jika belum punya silahkan download java dahulu.
+lakukan installasi java hingga sukses. 
+kemudian donwload program toko
+
+PANDUAN INSTALASI :
+https://www.hockeycomputindo.com/2020/04/program-toko-gratis-free-download-full.html
+
+Cara installasi
+1.SIlahkan download file program toko gratis
+2. Buat lah folder kerja untuk program toko
+3. Extract file download dan pindahkan pada folder baru tadi
+4. Double klik dan run file start.bat
+5. Program toko akan terbuka dan klik yes pembuatan database
+6. Login sebagai admin untuk all akses
+7. Program toko siap digunakan
+
+PANDUAN PENGGUNAAN :
+https://www.hockeycomputindo.com/2020/04/program-toko-gratis-free-download-full.html
+
++ KONFINGURASI
+Pada dashboard menu kanan lakukan konfigurasi dahulu
+Ubah pada menu locale dan locale pilih system default
+Dan lakukan konfigurasi printer kasir yang kamu gunakan.
+setelah itu restart program toko gratis,tutup dan buka lagi.
+
++ ADMIN
+Lihat dashboard kanan pada menu admin dan pilih menu database
+1. Buat database user dan hak aksesnya dahulu
+2. Buat data Kategori group produk
+3. Buat dan daftarkan produk jual mu
+4. Masukan dan buat master pajak
+5. Lakukan in out stok dan pembelian pada stok harian
+
++ TRANSAKSI
+1. Masuk menu penjualan dan pilih kategori produk kemudian pilih produk untuk transaksi.
+2. Selanjutnya untuk menghapus transaksi yang salah pilih fitur tanda stop (hapus transaksi) dan pilih backspace pada display penjualan untuk menghapus salah satu produk.
+3. Kemudian klik tanda sama dengan (=) untuk melakukan pembayaran dan masukan pembayaran pelanggan.
+4. Setelah transaksi jika menggunakan printer maka printer akan secara otomatis melakukan print
+5. Penjualan support dengan barcode dan touchscreen mode.
+
++ EDIT PENJUALAN
+Untuk melakukan edit penjualan transaksi caranya masukan no struk kasir kemudian lakukan edit sesuai kebutuhan.
+
++ CLOSE CASH
+Fitur untuk melakukan tutup kasir bisanya dilakukan ketika toko tutup untuk melihat omset pendapatan harian mu.
+
++ LAPORAN
+fitur untuk cek laporan laporan detail mulai dari stok hingga laporan keuangan.
+
++ KELUAR
+Fitur untuk logout dan keluar dari program toko gratis.
+
+
+Jika dibutuhkan dan membutuhkan premium program toko yang dilengkapi dengan rakitan produk , pilihan produk misal warna ukuran dll , mendukung multi gudang, laporan laba rugi ,dll
+hubungi kami untuk fitur premium.
+
+dan kami juga menyediakan mesin kasir set siap digunakan free installasi setting untuk usaha mu plus dukungna live time support.
+
+Kami sangat senang dan bahagia jika program toko ini berguna untuk pembukuan usaha mu, dan open donasi jika anda ingin memberikan donasi suka rela.
+Donasi via BCA Bank 0181884109 a/n Suci Chanifah
+
+Support by 
+web app : https://mesinkasironline.web.app
+Github : https://mesinkasir.github.io
+Facebook : https://fb.com/mesinkasircomplete
+Youtube Chanel : 
+https://www.youtube.com/channel/UCIBWTgOXH5oa2YlbfpO7QLQ
