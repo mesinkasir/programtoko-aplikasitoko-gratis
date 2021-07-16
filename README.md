@@ -34,5 +34,7 @@ Dukungan dengan paket mesin kasir lengkap tersedia untuk menunjang kebutuhan usa
 Dokumentasi penggunaan dan installasi : [https://www.hockeycomputindo.com/2020/04/program-toko-gratis-free-download-full.html](https://www.hockeycomputindo.com/2020/04/program-toko-gratis-free-download-full.html)
 
 
-https://mesinkasir.github.io - https://mesinkasir.web.app
+https://mesinkasir.github.io 
+
+https://mesinkasir.web.app
 
